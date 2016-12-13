@@ -5,8 +5,6 @@ There's a rocky trail down the side of the cliff leading to the beach.
 You also see a shed nearby.
 """
 
-enough_snacks = False
-
 def cliff():
     choice = raw_input("Do you head down the TRAIL or look in the SHED? ")
 
